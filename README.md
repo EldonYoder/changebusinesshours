@@ -1,7 +1,5 @@
 # Change My Business Hours
 
-========================
-
 I help run a local business. The nature of what we do is seasonal, so every few months I have to update hours in a number of places. The only problem was that I would almost always forget... so I eventually wrote down the main places I change hours. Thought these might be helpful for other folks too!
 
 ## Currently Linked
